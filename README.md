@@ -23,7 +23,6 @@
   <div class="card">
     <h1>Scan QR Code In Taxi</h1>
     <p>Open your phone camera and point it at the QR code to view payment or ride details.</p>
-    <footer>Hosted free via <strong>GitHub Pages</strong> — save this file as <strong>index.html</strong> and upload to your repository root.</footer>
   </div>
 </body>
 </html>
